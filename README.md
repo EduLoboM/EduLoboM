@@ -1,7 +1,7 @@
 <p align="center">
-  <img src="images/Welcome.png" alt="Welcome To My">
+  <img src="images/Welcome.png" alt="Welcome To My" width="600">
 </p>
 <p align="center">
-  <img src="images/Plants.gif" alt="Plants">
-  <img src="images/Zombie.gif" alt="Zombie">
+  <img src="images/Plants.gif" alt="Plants" width="500">
+  <img src="images/Zombie.gif" alt="Zombie" width="500">
 </p>
