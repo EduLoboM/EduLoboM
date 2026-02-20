@@ -35,4 +35,10 @@
   <a href="https://moral-katharine-gbcreadme-343614b7.koyeb.app/control?button=4&callback=https://github.com/EduLoboM">
     <img src="images/A.png" width="35"/>
   </a>
+  <a href="https://moral-katharine-gbcreadme-343614b7.koyeb.app/control?button=6&callback=https://github.com/EduLoboM">
+    <img src="images/Select.png" width="35"/>
+  </a>
+  <a href="https://moral-katharine-gbcreadme-343614b7.koyeb.app/control?button=7&callback=https://github.com/EduLoboM">
+    <img src="images/Start.png" width="35"/>
+  </a>
 </p>
